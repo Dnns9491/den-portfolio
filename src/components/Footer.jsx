@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <strong>Dennis Sasi</strong>
+      Dennis Sasi
       <p>Java Developer | Spring Boot | React | SQL</p>
     </footer>
   )

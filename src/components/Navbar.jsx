@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <strong>Dennis Sasi</strong>
+      Dennis Sasi
       <div>
         <a href="#skills">Skills</a>
         <a href="#experience">Experience</a>
